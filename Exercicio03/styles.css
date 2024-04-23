@@ -1,0 +1,16 @@
+.title{
+    color: rgb(48, 42, 17);
+    border-top: 1px solid rgb(48, 42, 17);
+    border-bottom: 1px solid rgb(48, 42, 17);
+}
+
+.alert{
+    background-color: rgb(84, 172, 179);
+    padding: 5px 5px 5px 5px;
+    color: white;
+}
+hr{
+    border: none;
+    height: 4px; 
+    border-top: 3px solid rgb(84, 172, 179);
+}
