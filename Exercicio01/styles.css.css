@@ -20,6 +20,7 @@ p{
 .alert{
     background-color: rgb(228, 190, 21);
     padding: 5px 5px 5px 5px;
+    color: white;
 }
 
 .title{
