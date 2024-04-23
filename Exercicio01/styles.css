@@ -1,7 +1,10 @@
 body{
     background-color: rgb(247, 243, 222);
+    background-image: url('img/grade.png');
+    background-repeat: repeat-y;
     margin: 5px;
     padding: 0;
+    margin-left: 10%;
 }
 
 hr{
