@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(247, 243, 222);
+    margin: 5px;
+    padding: 0;
+}
+
+hr{
+    border: none;
+    height: 4px; 
+    border-top: 3px dotted #c4ab21;
+}
+p{
+    text-indent: 30px;
+}
+
+.multiline {
+    display: block;
+}
+
+.alert{
+    background-color: rgb(228, 190, 21);
+    padding: 5px 5px 5px 5px;
+}
+
+.title{
+    color: rgb(156, 135, 16);
+}
+
+.imgLateral{
+    position: fixed;
+}
